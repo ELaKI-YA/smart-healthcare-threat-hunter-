@@ -150,6 +150,10 @@ proactively detects insider threats, safeguards sensitive patient
 information, and empowers healthcare organizations with AI-driven
 security monitoring and autonomous incident response.
 
+
+USERNAME & PASSWORD
+admin-admin123
+doctor-doctor123
 ------------------------------------------------------------------------
 
 Team
