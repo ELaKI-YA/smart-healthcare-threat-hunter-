@@ -4,17 +4,7 @@
 
 AI-Powered Healthcare Cybersecurity Platform for Real-Time Insider Threat Detection
 
-</p>
 
-<p align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Express.js](https://img.shields.io/badge/Express.js-Framework-blue)
-![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-orange)
-![Machine Learning](https://img.shields.io/badge/AI-Isolation%20Forest-red)
-
-</p>
 
 ---
 
@@ -535,12 +525,12 @@ Password : admin123
 
 ---
 
-## Machine Learning Dashboard
+## Doctor Dashboard
 
 > Add screenshot here.
 
 ```markdown
-![Machine Learning](images/ml-dashboard.png)
+![Doctor DashBoard]("C:\Users\elakiya U\OneDrive\Pictures\doctor dashboar.png")
 ```
 
 ---
