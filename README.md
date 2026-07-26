@@ -480,32 +480,26 @@ http://localhost:3000
 
 # Quick Start Guide
 
-1. Clone the repository.
-2. Install dependencies.
+
+1. Install dependencies.
 
 ```bash
 npm install
 ```
 
-3. Configure the `.env` file.
-
-```env
-JWT_SECRET=your_secret_key
-```
-
-4. Start the server.
+2. Start the server.
 
 ```bash
 npm start
 ```
 
-5. Open your browser.
+3. Open your browser.
 
 ```text
 http://localhost:3000
 ```
 
-6. Log in using one of the demo accounts.
+4. Log in using one of the demo accounts.
 
 ### Doctor
 
