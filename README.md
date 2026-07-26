@@ -525,13 +525,6 @@ Password : admin123
 
 ---
 
-## Doctor Dashboard
-
-> Add screenshot here.
-
-```markdown
-![Doctor DashBoard]("C:\Users\elakiya U\OneDrive\Pictures\doctor dashboar.png")
-```
 
 ---
 
