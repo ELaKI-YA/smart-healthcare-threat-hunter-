@@ -110,28 +110,6 @@ The Machine Learning engine is responsible for detecting abnormal behavior.
 Instead of relying only on predefined attack signatures, it learns what **normal doctor behavior** looks like from historical activity data and identifies activities that significantly deviate from these learned patterns.
 
 The project uses an **Isolation Forest** anomaly detection model because it is highly effective for identifying rare and unusual activities without requiring labeled attack data.
-               Doctor Login
-                     │
-                     ▼
-           Activity Monitoring
-                     │
-                     ▼
-            Feature Extraction
-                     │
-         ┌───────────┴───────────┐
-         ▼                       ▼
- Isolation Forest          Rule Engine
-         │                       │
-         └───────────┬───────────┘
-                     ▼
-             Risk Score Engine
-                     │
-                     ▼
-          Administrator Dashboard
-                     │
-                     ▼
-              Audit Log Database
-
 Behavioral Features Used
 
 The model analyzes:
